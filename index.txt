@@ -1,2 +1,4 @@
 Index file is nothing but just a file to check if newly created remote repository works or not. thanks
 ##Updated on 17th Jan
+trying Fetch command
+##updated on 18th Jan
